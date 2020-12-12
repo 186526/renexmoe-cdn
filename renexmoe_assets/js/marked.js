@@ -1,0 +1,1 @@
+import m from"../../web_modules/marked.js";import e from"../../web_modules/mdui.jq.js";export default async()=>{document.getElementById("head")&&e("#head").html(m(e("#head-md").html())),document.getElementById("readme")&&e("#readme").html(m(e("#readme-md").html()))};

@@ -1,0 +1,1 @@
+import t from"../../web_modules/mdui.js";import o from"../../web_modules/axios.js";export default{$:t.$};export async function refresh(r){const e=new URL(r);e.search="?RefreshCache";const s=await o.get(e.href);return s.status===302}
