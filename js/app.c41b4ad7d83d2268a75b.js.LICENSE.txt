@@ -1,0 +1,11 @@
+/*!
+ * mdui 1.0.1 (https://mdui.org)
+ * Copyright 2016-2020 zdhxiong
+ * Licensed under MIT
+ */
+
+/*!
+ * mdui.jq 2.0.1 (https://github.com/zdhxiong/mdui.jq#readme)
+ * Copyright 2018-2020 zdhxiong
+ * Licensed under MIT
+ */
