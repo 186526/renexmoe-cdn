@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "axios": "./axios.js",
+    "marked": "./marked.js",
+    "mdui": "./mdui.js",
+    "mdui.jq": "./mdui.jq.js",
+    "nprogress": "./nprogress.js",
+    "nprogress/nprogress.css": "./nprogress/nprogress.css",
+    "pjax": "./pjax.js"
+  }
+}
