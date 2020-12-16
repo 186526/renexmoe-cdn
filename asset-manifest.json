@@ -1,0 +1,9 @@
+{
+  "app.js": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/app.acf12197572f98245761.js",
+  "app.js.map": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/app.acf12197572f98245761.js.map",
+  "lib-mdui.js": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/lib-mdui.2b0989298dc828cff067.js",
+  "lib-mdui.js.map": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/lib-mdui.2b0989298dc828cff067.js.map",
+  "webpack-runtime.js": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/webpack-runtime.94d73a5ce87b2ff9dd2b.js",
+  "webpack-runtime.js.map": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/webpack-runtime.94d73a5ce87b2ff9dd2b.js.map",
+  "js/lib-mdui.2b0989298dc828cff067.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v0.6/js/lib-mdui.2b0989298dc828cff067.js.LICENSE.txt"
+}
