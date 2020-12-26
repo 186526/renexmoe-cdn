@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "marked": "./marked.js",
+    "mdui": "./mdui.js",
+    "nprogress": "./nprogress.js",
+    "nprogress/nprogress.css": "./nprogress/nprogress.css"
+  }
+}
