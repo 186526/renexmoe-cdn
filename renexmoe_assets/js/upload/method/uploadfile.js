@@ -1,0 +1,1 @@
+const n=async(l,t,a)=>{let i=new FileReader,r,s;const o=l.origin;if(o){let d=0,u=orginfile.size,e=new XMLHttpRequest;e.open("GET",l.url.uploadUrl),e.send(null),e.onload=p=>{console.log(e)}}};export default n;

@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "highlight.js": "./highlightjs.js",
+    "highlight.js/styles/github.css": "./highlightjs/styles/github.css",
+    "marked": "./marked.js",
+    "mdui": "./mdui.js",
+    "nprogress": "./nprogress.js"
+  }
+}
