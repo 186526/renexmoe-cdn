@@ -1,0 +1,45 @@
+{
+  "imports": {
+    "/index.html": {
+      "entry": [
+        "/renexmoe_assets/js/app.js"
+      ],
+      "css": [
+        "/favicon.ico",
+        "https://cdn.jsdelivr.net",
+        "https://fonts.googleapis.com",
+        "https://fonts.gstatic.com",
+        "https://renexmoe.vercel.app"
+      ],
+      "js": [
+        "/__snowpack__/env.js",
+        "/renexmoe_assets/css/app.css.proxy.js",
+        "/renexmoe_assets/css/mdui.css.proxy.js",
+        "/renexmoe_assets/css/notosans.css.proxy.js",
+        "/renexmoe_assets/css/nprogress.css.proxy.js",
+        "/renexmoe_assets/js/app.js",
+        "/renexmoe_assets/js/checkupdate.js",
+        "/renexmoe_assets/js/code.js",
+        "/renexmoe_assets/js/cookies.js",
+        "/renexmoe_assets/js/flyingpages.js",
+        "/renexmoe_assets/js/marked.js",
+        "/renexmoe_assets/js/menu.js",
+        "/renexmoe_assets/js/pack.js",
+        "/renexmoe_assets/js/pjax_lib.js",
+        "/renexmoe_assets/js/pjax.js",
+        "/renexmoe_assets/js/sort.js",
+        "/renexmoe_assets/js/theme.js",
+        "/renexmoe_assets/js/toggle.js",
+        "/renexmoe_assets/js/utils.js",
+        "/web_modules/common/_commonjsHelpers-eb5a497e.js",
+        "/web_modules/highlightjs/styles/github.css.proxy.js",
+        "/web_modules/marked.js",
+        "/web_modules/mdui.js",
+        "/web_modules/nprogress.js"
+      ]
+    }
+  },
+  "generated": {
+    "preloadedCSS": "/css/app.css"
+  }
+}
