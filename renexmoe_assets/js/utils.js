@@ -1,0 +1,1 @@
+import r from"../../_snowpack/pkg/mdui.js";import s from"./lib/cookies.js";export default{$:r.$};export async function refresh(o){const e=new URL(o);e.search="?RefreshCache";const t=await fetch(e.href);return t.status===302||t.status===202}export async function logout(){s.removeItem("admin","/"),location.reload()}

@@ -1,0 +1,7 @@
+/*!
+ * renexmoe v1.1.4 (https://github.com/186526/onemanager-theme-renexmoe)
+ * Copyright 2020-2021 186526 <i@186526.xyz>
+ * Licensed under GPL-3.0
+ */import e from"../../_snowpack/pkg/mdui.js";import t from"./function/pjax.js";import o from"./theme.js";import r from"./function/toggle.js";import{drawertoggle as m}from"./function/toggle.js";import i from"./function/sort.js";import a from"./function/menu.js";import g from"./function/marked.js";import l from"./lib/flyingpages.js";import s from"./function/code.js";import n from"./pack.js";globalThis.mdui=e,globalThis.renexmoe={toggle_theme:o.toggle,mutation:()=>{console.log("renexmoe - pjax - Init Page"),console.log("renexmoe - marked - Update Marked"),g(),console.log("renexmoe - mdui - Update Theme"),o.mutation(),console.log("renexmoe - sort - Init Sort"),i(),e.mutation(),console.log("renexmoe - init - Start EventLister"),r(),s(),l()},pjax:t(),renexmoe:n,version:n},e.$(()=>{console.log(`
+ %c OneManager-theme-renexmoe | Powered by OneManager-php && Webpack | 186526 
+`,"color: #fff; background: #444; padding:5px 0;"),console.log("renexmoe - init - Start Load"),console.log("renexmoe - init - Start EventLister"),a(),m(),console.log("renexmoe - init - Start FlyingPages"),console.log("renexmoe - init - Init MDUI"),window.renexmoe.mutation(),document.addEventListener("pjax:success",window.renexmoe.mutation)});export default globalThis.renexmoe;
