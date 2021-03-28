@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "highlight.js/styles/github.css": "./highlightjs/styles/github.css",
+    "nprogress/nprogress.js": "./nprogress/nprogress.js",
+    "sha-1/dist/sha1.esm.js": "./sha-1/dist/sha1.esm.js"
+  }
+}
